@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的应用作品集</string>
+    <string name="nano_degree_app">纳米学位应用</string>
+    <string name="popular_movie">热门电影</string>
+    <string name="stock_eagle">股票雄鹰</string>
+    <string name="xyz_reader">XYZ阅读器</string>
+    <string name="extra_news">最新闻</string>
+    <string name="graduation_project">毕业设计</string>
+
+    <string name="start_app">启动应用: %1s</string>
+</resources>
